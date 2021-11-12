@@ -1,0 +1,38 @@
+html, body {
+  background: #efefef;      
+  height:100%;  
+}
+
+h1{
+  color: red;
+  background-color: lightblue;
+  text-align: center;
+  border: 2px black;
+  border-style: solid;
+}
+
+ul{
+  text-align: center;
+  position: relative;
+  margin:50px;
+}
+
+li{
+  margin: 10px;
+  text-align: center;
+  margin-right: 200px;
+  background-color: lightcoral;
+}
+
+textarea{
+  background-color: black;
+  color: white;
+}
+
+body{
+  background-color: lightgray;
+}
+
+button{
+  background-color: blue;
+}
